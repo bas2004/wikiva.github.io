@@ -1,0 +1,1 @@
+{"name":"Wikiva.GitHub.io","tagline":"a website","body":"### Welcome on the Wikiva Website\r\nthis is the wikiva github website!\r\nTake a note this is a test website!\r\n\r\n\r\n```\r\n$ cd your_repo_root/repo_name\r\n$ git fetch origin\r\n$ git checkout gh-pages\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
